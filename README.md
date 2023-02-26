@@ -1,0 +1,2 @@
+# WoWAddonTemplate
+WoW AddOn Template
