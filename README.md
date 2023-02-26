@@ -25,13 +25,13 @@ The MyAddon table is the main table that holds your addon's functions and data. 
     OnEvent (function): A function that handles events. You can add code to handle events here.
     Debug (function): A function that prints debug messages. You can call this function in your addon's code to output debug messages to the chat window.
 
-Saved variable database
+## Saved variable database
 
 The saved variable database is used to store data for your addon. The template includes the following saved variables:
 
     MyAddonDB (table): A table that holds any saved variables you need for your addon. You can add properties to this table as needed.
 
-Configuration panel
+## Configuration panel
 
 The configuration panel allows users to customize the behavior of your addon. The template uses the Ace3 addon framework or Blizzard's built-in interface options to create the configuration panel.
 
@@ -40,6 +40,6 @@ To add options to the configuration panel, you can create new elements using the
     myOption (boolean): A boolean option that users can enable or disable to customize your addon's behavior.
     debug (boolean): A boolean option that enables or disables debug messages.
 
-Conclusion
+## Conclusion
 
 That's a brief overview of the addon template and how to use it. I hope this documentation helps you get started with creating your own addons for WoW! Let me know if you have any questions or if there's anything else I can do to assist you.
