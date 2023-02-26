@@ -1,9 +1,10 @@
-Overview
+##Overview
 
 The addon template provides a starting point for creating addons for World of Warcraft (WoW) that includes a configuration panel for users to customize the addon's behavior and a saved variable database for storing data. The template can be customized to include any desired functionality.
 
 The template uses the Ace3 addon framework or Blizzard's built-in interface options to create the configuration panel. The user can easily enable or disable options and save their preferences to the saved variable database.
-Getting started
+
+##Getting started
 
 To use the addon template, follow these steps:
 
@@ -12,10 +13,10 @@ To use the addon template, follow these steps:
     Create a ZIP file containing your addon Lua file and any other necessary files, such as artwork or sound files.
     Distribute the ZIP file to other WoW players who can then install the addon by extracting the files to their WoW addons directory.
 
-Template components
+##Template components
 
 The template includes the following components:
-MyAddon table
+#MyAddon table
 
 The MyAddon table is the main table that holds your addon's functions and data. It includes the following properties:
 
