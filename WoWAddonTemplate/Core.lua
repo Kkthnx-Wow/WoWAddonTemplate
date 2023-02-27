@@ -45,7 +45,7 @@ local WoWAddonTemplate = CreateFrame("Frame")
 
 -- Set default values for the addon's saved variables
 local defaults = {
-	someOption = false,
+	myOption = false,
 	debug = false,
 }
 
