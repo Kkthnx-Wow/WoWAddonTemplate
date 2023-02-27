@@ -1,0 +1,13 @@
+## Interface: 100005
+## Name: WoWAddonTemplate
+## Title: |cff669DFFWoWAddonTemplate|r
+## Notes: An addon template that provides a starting point for creating addons for World of Warcraft.|n|n|cff669DFFDeveloper|cffffffff:|r |nJosh "|CFF7b8489Kkthnx|r" Russell|n|n|cff009cdePayPal|r|cffffffff:|r |n|cffffffffwww.paypal.me/Kkthnx|r|n|n|cfff96854Patreon|r|cffffffff:|r |n|cffffffffwww.patreon.com/Kkthnx|r
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
+## X-Support: DF
+## SavedVariables: WowAddonTemplateDB
+## X-Curse-Project-ID:
+## X-Wago-ID:
+
+# Core
+Core.lua
